@@ -28,6 +28,11 @@
                 <a class="" href="{{ . }}" aria-label="Twitter">{{ partial "icons/twitter.html" }}</a>
               </li>
             {{ end }}
+            {{ with .linkedin }}
+              <li class="bg-primary/10 text-primary flex size-8 items-center justify-center rounded-full">
+                <a class="" href="{{ . }}" aria-label="Linkedin">{{ partial "icons/linkedin.html" }}</a>
+              </li>
+            {{ end }}
           </ul>
         {{ end }}
       </div>
