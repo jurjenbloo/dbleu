@@ -8,10 +8,10 @@ text: "D’Bleu leads organizations through transformation with strategic interi
 
 buttons:
   - label: "Our Approach"
-    link: "/approach/"
+    url: "/approach/"
 
   - label: "Schedule a Call"
-    link: ""
+    url: ""
 
 image: "images/frontpage.jpg"
 
