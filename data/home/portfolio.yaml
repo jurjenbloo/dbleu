@@ -1,14 +1,14 @@
 enable: true
 
-pretitle: "Our Mission"
-title: "Built for transformation."
-text: "At D’Bleu, we believe that true progress occurs when leadership is clear, structures are strong, and execution is bold. Our mission is to empower organizations and their leaders to succeed during uncertain times by acting as a catalyst for focused action, strategic clarity, and data- and AI-driven decision-making that transforms complexity into forward momentum."
+#pretitle: "Our Mission"
+#title: "Built for transformation."
+#text: "At D’Bleu, we believe that true progress occurs when leadership is clear, structures are strong, and execution is bold. Our mission is to empower organizations and their leaders to succeed during uncertain times by acting as a catalyst for focused action, strategic clarity, and data- and AI-driven decision-making that transforms complexity into forward momentum."
 
-#items:
-#  - image: "images/Mission.jpg"
-#    pretitle: "Our Mission"
-#    title: "Built for transformation."
-#    text: "At D’Bleu, we believe that true progress occurs when leadership is clear, structures are strong, and execution is bold. Our mission is to empower organizations and their leaders to succeed during uncertain times by acting as a catalyst for focused action, strategic clarity, and data- and AI-driven decision-making that transforms complexity into forward momentum."
+items:
+  - image: "images/Mission.jpg"
+    pretitle: "Our Mission"
+    title: "Built for transformation."
+    text: "At D’Bleu, we believe that true progress occurs when leadership is clear, structures are strong, and execution is bold. Our mission is to empower organizations and their leaders to succeed during uncertain times by acting as a catalyst for focused action, strategic clarity, and data- and AI-driven decision-making that transforms complexity into forward momentum."
 
 #    buttons: 
 #      - label: "See live"
