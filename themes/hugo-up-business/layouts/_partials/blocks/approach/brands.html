@@ -4,7 +4,7 @@
     {{ with $data.title }}
       <h1 class="text-primary mb-16 text-center text-2xl font-semibold">{{ . }}</h1>
     {{ end }}
-    {{ with $data.image }}
+    {{ with .image }}
       <div class="flex flex-col flex-wrap items-center justify-around gap-8 xl:flex-row">
         {{ range .items }}
           <div class="">
