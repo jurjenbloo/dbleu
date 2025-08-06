@@ -1,38 +1,38 @@
-enable: false
+enable: true
 
 items:
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+  - image: "images/mission.jpg"
+    pretitle: "Our Mission"
+    title: "Built for transformation."
+    text: "At D’Bleu, we believe that true progress occurs when leadership is clear, structures are strong, and execution is bold. Our mission is to empower organizations and their leaders to succeed during uncertain times by acting as a catalyst for focused action, strategic clarity, and data- and AI-driven decision-making that transforms complexity into forward momentum."
 
-    buttons: 
-      - label: "See live"
-        link: "#"
+#    buttons: 
+#      - label: "See live"
+#        link: "#"
 
-      - label: "Read more"
-        link: "#"
+#      - label: "Read more"
+#        link: "#"
 
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+#  - image: "images/portfolio-ecommerce.png"
+#    pretitle: "Portfolio Service"
+#    title: "We developed an eCommerce website"
+#    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
 
-    buttons: 
-      - label: "See live"
-        link: "#"
+#    buttons: 
+#      - label: "See live"
+#        link: "#"
 
-      - label: "Read more"
-        link: "#"
+#      - label: "Read more"
+#        link: "#"
 
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+#  - image: "images/portfolio-ecommerce.png"
+#    pretitle: "Portfolio Service"
+#    title: "We developed an eCommerce website"
+#    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
 
-    buttons: 
-      - label: "See live"
-        link: "#"
+#    buttons: 
+#      - label: "See live"
+#        link: "#"
 
-      - label: "Read more"
-        link: "#"
+#      - label: "Read more"
+#        link: "#"

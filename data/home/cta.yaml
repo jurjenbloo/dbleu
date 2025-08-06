@@ -1,7 +1,8 @@
 enable: true
 
-title: "Start your business now!"
-image: "images/services-web-development.png"
+title: "Your transformation starts with a conversation."
+text: "Let’s explore how D’Bleu can help you lead through complexity. Schedule a short call no strings, just clarity."
+#image: "images/services-web-development.png"
 button:
-  label: "Let's talk"
+  label: "Schedule a Call"
   link: "#"
