@@ -1,10 +1,10 @@
-<section id="certs" class="hero py-8 xl:py-16">
-  {{ $data := .Site.Data.approach.certs }}
+<section id="brands" class="py-8 xl:py-16">
+  {{ $data := .Site.Data.approach.brands }}
   <div class="container mx-auto px-4">
     {{ with $data.title }}
       <h1 class="text-primary mb-16 text-center text-2xl font-semibold">{{ . }}</h1>
     {{ end }}
-    {{ if $data.items }}
+    {{ with $data.image }}
       <div class="flex flex-col flex-wrap items-center justify-around gap-8 xl:flex-row">
         {{ range $data.items }}
           <div class="">
