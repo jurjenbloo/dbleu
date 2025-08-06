@@ -1,15 +1,9 @@
 enable: true
 
-title: "Navigating Change.<br>Leading with <strong class=\"text-pink-500\">Purpose</strong>.<br>Delivering <strong class=\"text-pink-500\">Results</strong>."
-#title: "Navigating Change. Leading with **Purpose**. Delivering **Results**."
-#title: "D'Bleu"
-#text: "D’Bleu helps organizations in managing periods of change by offering structure, direction, and effective leadership. With more than 13 years of experience in digital transformation, program and project management, and organizational development, we support executive teams in accelerating growth, implementing complex change initiatives, and achieving lasting impact. Our approach is strategic, focused, and centered on people."
-text: "D’Bleu leads organizations through transformation with strategic interim leadership and executional excellence. From digital change to complex program delivery, we bring clarity, structure, and decisive leadership when momentum is critical."
+title: "How D’Bleu Turns Complexity into <strong class=\"text-pink-500\">Momentum</strong>"
+text: "At D’Bleu, we don’t just offer advice; we actively step in, lead, and deliver results. Our approach combines strategic insight with strong execution:<br><br>- We analyze the root causes of complexity and misalignment.<br>- We collaboratively create a clear direction and build commitment among stakeholders.<br>- We implement solutions with structure, speed, and strong leadership.<br><br>Whether we’re addressing a stalled transformation or tackling a scaling challenge, we create calm, establish a steady rhythm, and drive tangible results."
 
 buttons:
-  - label: "Our Approach"
-    link: "#"
-
   - label: "Schedule a Call"
     link: ""
 

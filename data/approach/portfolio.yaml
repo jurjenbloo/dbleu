@@ -1,13 +1,9 @@
 enable: true
 
-#pretitle: "Our Mission"
-#title: "Built for transformation."
-#text: "At D’Bleu, we believe that true progress occurs when leadership is clear, structures are strong, and execution is bold. Our mission is to empower organizations and their leaders to succeed during uncertain times by acting as a catalyst for focused action, strategic clarity, and data- and AI-driven decision-making that transforms complexity into forward momentum."
-
 items:
   - image: "images/Mission.jpg"
     pretitle: "Our Mission"
-    title: "Built for transformation."
+    title: "Interim Leadership"
     text: "At D’Bleu, we believe that true progress occurs when leadership is clear, structures are strong, and execution is bold. Our mission is to empower organizations and their leaders to succeed during uncertain times by acting as a catalyst for focused action, strategic clarity, and data- and AI-driven decision-making that transforms complexity into forward momentum."
 
 #    buttons: 
@@ -17,10 +13,10 @@ items:
 #      - label: "Read more"
 #        link: "#"
 
-#  - image: "images/portfolio-ecommerce.png"
-#    pretitle: "Portfolio Service"
-#    title: "We developed an eCommerce website"
-#    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+  - image: "images/portfolio-ecommerce.png"
+    pretitle: "Portfolio Service"
+    title: "Program & Change Execution"
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
 
 #    buttons: 
 #      - label: "See live"
@@ -29,10 +25,10 @@ items:
 #      - label: "Read more"
 #        link: "#"
 
-#  - image: "images/portfolio-ecommerce.png"
-#    pretitle: "Portfolio Service"
-#    title: "We developed an eCommerce website"
-#    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+  - image: "images/portfolio-ecommerce.png"
+    pretitle: "Portfolio Service"
+    title: "Digital & Organizational Transformation"
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
 
 #    buttons: 
 #      - label: "See live"

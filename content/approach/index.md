@@ -1,4 +1,4 @@
 ---
-title: "Our2 Approach"
+title: "Our Approach"
 layout: "approach"
 ---
