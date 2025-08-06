@@ -1,14 +1,14 @@
 enable: true
 
-title: "How to **Bloo** your business"
-text: "D'Bleu3"
+title: "Navigating Change. Leading with **Purpose**. Delivering **Results**."
+text: "D’Bleu helps organizations in managing periods of change by offering structure, direction, and effective leadership. With more than 13 years of experience in digital transformation, program and project management, and organizational development, we support executive teams in accelerating growth, implementing complex change initiatives, and achieving lasting impact. Our approach is strategic, focused, and centered on people."
 
 buttons:
-  - label: "How we work"
+  - label: "Our Approach"
     link: "#"
 
-  - label: "Let's talk"
+  - label: "Schedule a Call"
     link: ""
 
-image: "assets/images/hero-image.png"
+image: "assets/images/frontpage.jpg"
 
