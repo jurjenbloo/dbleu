@@ -1,5 +1,5 @@
-title: "Up Business"
-description: "test"
+title: "D'Bleu"
+description: "Navigating Change. Leading with **Purpose**. Delivering **Results**."
 items: 
   - "images/hero-image.png"
 
@@ -11,14 +11,10 @@ favicons:
   faviconColor: "#000000"
 
 social:
-  dribbble: "#"
-  instagram: "#"
-  facebook: "#"
-  twitter: "#"
+  linkedin: "https://www.linkedin.com/company/dbleu/"
 
 location:
-  - "3891 Ranchview Dr. Richardson, California 62639"
-  - "4517 Washington Ave. Manchester, Kentucky 39495"
+  - "Netherlands"
 
 contact:
   - "jurjen@dbleu.nl"
