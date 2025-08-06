@@ -1,4 +1,5 @@
 #theme: "github.com/writeonlycode/hugo-up-business"
+baseURL: "https://jurjenbloo.github.io/dbleu/"
 theme: "hugo-up-business"
 languageCode: "en-us"
 
