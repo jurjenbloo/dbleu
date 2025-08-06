@@ -1,7 +1,7 @@
 enable: true
 
 title: "How to **level up** your business"
-text: "D'Bleu"
+text: "D'Bleu2"
 
 buttons:
   - label: "How we work"
@@ -10,5 +10,5 @@ buttons:
   - label: "Let's talk"
     link: ""
 
-image: "images/hero-image.png"
-
+# image: "images/hero-image.png"
+items: "images/hero-image.png"
