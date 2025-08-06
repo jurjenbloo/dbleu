@@ -8,7 +8,9 @@
         </h1>
       {{ end }}
       {{ with $data.text }}
-        <p class="text-center xl:text-start">{{ . | markdownify }}</p>
+        <div class="text-center xl:text-start [&>ul]:list-disc [&>ul]:pl-6 [&>ul]:space-y-2">
+           {{ . | safeHTML }}
+        </div>
       {{ end }}
       {{ if $data.buttons }}
         <div class="flex flex-col items-center gap-4 xl:flex-row xl:gap-8">
