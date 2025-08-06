@@ -6,7 +6,7 @@
     {{ end }}
     {{ with $data.image }}
       <div class="flex flex-col flex-wrap items-center justify-around gap-8 xl:flex-row">
-        {{ range $data.items }}
+        {{ range .items }}
           <div class="">
             {{ partial "utilities/image.html" (dict "src" . "class" "w-auto h-8") }}
           </div>
