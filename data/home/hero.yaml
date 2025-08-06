@@ -10,6 +10,5 @@ buttons:
   - label: "Let's talk"
     link: ""
 
-#image: "images/hero-image.png"
-items: 
-  - "images/hero-image.png"
+image: "images/hero-image.png"
+
