@@ -1,11 +1,18 @@
 enable: true
 
 title: "How D’Bleu Turns Complexity into <strong class=\"text-pink-500\">Momentum</strong>"
-text: "At D’Bleu, we don’t just offer advice; we actively step in, lead, and deliver results. Our approach combines strategic insight with strong execution:<br><br>- We analyze the root causes of complexity and misalignment.<br>- We collaboratively create a clear direction and build commitment among stakeholders.<br>- We implement solutions with structure, speed, and strong leadership.<br><br>Whether we’re addressing a stalled transformation or tackling a scaling challenge, we create calm, establish a steady rhythm, and drive tangible results."
+
+text: |
+  At D’Bleu, we don’t just offer advice; we actively step in, lead, and deliver results. Our approach combines strategic insight with strong execution:
+
+  - We analyze the root causes of complexity and misalignment.  
+  - We collaboratively create a clear direction and build commitment among stakeholders.  
+  - We implement solutions with structure, speed, and strong leadership.  
+
+  Whether we’re addressing a stalled transformation or tackling a scaling challenge, we create calm, establish a steady rhythm, and drive tangible results.
 
 buttons:
   - label: "Schedule a Call"
-    link: ""
+    link: "/schedule"
 
 image: "images/frontpage.jpg"
-
