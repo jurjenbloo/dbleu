@@ -20,7 +20,7 @@ items:
 
     buttons: 
       - label: "Read the full story →"
-        url: "/about/"
+        url: "about/"
 
       - label: "Schedule a Call"
         url: "/schedule"
