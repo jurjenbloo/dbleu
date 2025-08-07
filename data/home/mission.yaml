@@ -13,17 +13,17 @@ items:
 #      - label: "Read more"
 #        url: "#"
 
-#  - image: "images/portfolio-ecommerce.png"
-#    pretitle: "Portfolio Service"
-#    title: "We developed an eCommerce website"
-#    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+  - image: "images/jurjen.png"
+    pretitle: "From Operator to Founder"
+    title: "Why D’Bleu exists"
+    text: "I’m Jurjen Bloo, the fixer boards call when €100 m programmes flat-line. After 20 years turning chaos into cadence for banks, telcos and scale-ups, I built D’Bleu to inject that execution DNA into organisations that refuse to settle for average. My promise: clarity in 48 hours, momentum in 30 days, results in 90."
 
-#    buttons: 
-#      - label: "See live"
-#        url: "#"
+    buttons: 
+      - label: "Read the full story →"
+        url: "about/"
 
-#      - label: "Read more"
-#        url: "#"
+      - label: "Schedule a Call"
+        url: "/schedule"
 
 #  - image: "images/portfolio-ecommerce.png"
 #    pretitle: "Portfolio Service"

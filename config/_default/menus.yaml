@@ -7,9 +7,9 @@ main:
     url: "/approach/"
     weight: 2
 
-#  - name: "Our team"
-#    url: "/#"
-#    weight: 3
+  - name: "About"
+    url: "/about/"
+    weight: 3
 
 #  - name: "Pricing"
 #    url: "/#"
@@ -33,9 +33,9 @@ footer:
     url: "/approach/"
     weight: 2
 
-#  - name: "Our team"
-#    url: "/#"
-#    weight: 3
+  - name: "About"
+    url: "/about/"
+    weight: 3
 
 #  - name: "Pricing"
 #    url: "/#"
