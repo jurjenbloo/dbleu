@@ -43,7 +43,7 @@ The name **D’Bleu** blends my surname *Bloo* (French *Bleu*) with the delta sy
 Your competitors aren’t waiting. Neither should you.  
 
 {{< button
-     label="Schedule a call"
+     label="Schedule a call →"
      href="/schedule"
      variant="primary"
 >}}
