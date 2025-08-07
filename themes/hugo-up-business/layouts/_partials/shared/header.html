@@ -1,7 +1,7 @@
 <nav class="">
   <div class="container mx-auto flex items-center justify-between px-4 py-6">
     <a class="flex items-center" href="{{ .Site.BaseURL }}">
-      <span class="text-primary text-xl font-semibold uppercase xl:text-3xl">{{ .Site.Title }}</span>
+      <span class="text-primary text-xl font-semibold uppercase xl:text-3xl">{{ .Site.sitetitle }}</span>
     </a>
     <button
       class="cursor-pointer xl:hidden"
@@ -19,7 +19,7 @@
     >
       <div class="container absolute top-0 mx-auto flex items-center justify-between px-4 py-6 xl:hidden">
         <a class="flex items-center xl:hidden" href="{{ .Site.BaseURL }}">
-          <span class="text-primary text-xl font-semibold uppercase xl:text-3xl">{{ .Site.Title }}</span>
+          <span class="text-primary text-xl font-semibold uppercase xl:text-3xl">{{ .Site.sitetitle }}</span>
         </a>
         <button
           class="cursor-pointer xl:hidden"
