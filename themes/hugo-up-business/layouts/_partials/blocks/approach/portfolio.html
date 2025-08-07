@@ -16,7 +16,7 @@
             <h1 class="text-primary mb-4 text-center text-4xl font-bold xl:text-start">{{ . }}</h1>
           {{ end }}
           {{ with .text }}
-            <p class="mb-6 text-center xl:text-start">{{ . }}</p>
+            <p class="mb-6 text-center xl:text-start">{{ . | safeHTML }}</p>
           {{ end }}
           <div class="flex items-center justify-center gap-4 xl:justify-start">
             {{ range .buttons }}
