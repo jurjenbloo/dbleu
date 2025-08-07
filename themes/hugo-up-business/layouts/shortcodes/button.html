@@ -1,0 +1,11 @@
+{{/*  Usage:
+      {{< button label="Schedule a Call" href="/schedule" variant="primary" >}}
+      variant = primary (default) | outline
+*/}}
+
+{{ $variant := .Get "variant" | default "primary" }}
+{{ $label   := .Get "label" }}
+{{ $href    := .Get "href" }}
+
+{{- $partial := printf "components/button/%s" $variant -}}
+{{ partial $partial (dict "label" $label "href" $href) }}

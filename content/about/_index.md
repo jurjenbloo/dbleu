@@ -42,3 +42,8 @@ The name **D’Bleu** blends my surname *Bloo* (French *Bleu*) with the delta sy
 ## Why it matters to you  
 Your competitors aren’t waiting. Neither should you.  
 [➡ Schedule a 30-min clarity call](/schedule)
+{{< button
+     label="Schedule a 30-min Clarity Call"
+     href="/schedule"
+     variant="primary"
+>}}
