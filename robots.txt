@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://dbleu.nl/sitemap.xml
