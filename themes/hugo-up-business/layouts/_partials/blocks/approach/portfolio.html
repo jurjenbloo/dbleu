@@ -18,15 +18,18 @@
           {{ with .text }}
             <p class="mb-6 text-center xl:text-start">{{ . | safeHTML }}</p>
           {{ end }}
-          <div class="flex items-center justify-center gap-4 xl:justify-start">
-            {{ range .buttons }}
-              {{ if (eq $i 0) }}
-                {{ partial "components/button/primary" (dict "label" .label "href" .url) }}
-              {{ else }}
-                {{ partial "components/button/outline" (dict "label" .label "href" .url) }}
-              {{ end }}
-            {{ end }}
-          </div>
+        <div class="flex items-center justify-center gap-4 xl:justify-start">
+          {{ range .buttons }}
+            {{ $style := or .style "primary" }}
+            {{- if eq $style "primary" -}}
+              {{ partial "components/button/primary" (dict "label" .label "href" .url) }}
+            {{- else if eq $style "outline" -}}
+              {{ partial "components/button/outline" (dict "label" .label "href" .url) }}
+            {{- else -}}
+              {{/* fallback voor onbekende stijl of extensie-optie later */}}
+              {{ partial "components/button/primary" (dict "label" .label "href" .url) }}
+            {{- end }}
+          {{ end }}
         </div>
       </div>
     {{ end }}
