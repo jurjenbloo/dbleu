@@ -7,7 +7,6 @@
       <div class="flex flex-col flex-wrap items-center justify-around gap-8 xl:flex-row">
         {{ range .items }}
           <div class="">
-            {{ $alt := (printf "%s logo" ( replace (path.Base .) (ext .) "" | humanize )) }}
             {{ partial "utilities/image.html" (dict "src" . "class" "w-auto h-8") }}
           </div>
         {{ end }}
