@@ -4,11 +4,11 @@ title: "The Right Force at the Right Time"
 text: "We engage when momentum is crucial, to lead, structure, and deliver. Each service is tailored to address your challenge with precision and impact."
 cards:
   - image: "images/Interim_Leadership.jpg"
-    title: "Interim Leadership"
+    title: "Interim Leadership_test"
     text: "We provide temporary executive leadership during critical transitions, crises, or scale-ups, ensuring clarity, stability, and results."
     button:
       label: "Learn more"
-      url: "approach/#interim-leadership"
+      url: "approach/#Interim-Leadership"
 
   - image: "images/Program_Change_Execution.jpg"
     title: "Program & Change Execution"
