@@ -45,5 +45,5 @@ Your competitors aren’t waiting. Neither should you.
 {{< button
      label="Schedule a call"
      href="/schedule"
-     variant="outline"
+     variant="primary"
 >}}
