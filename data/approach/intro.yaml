@@ -17,4 +17,6 @@ buttons:
   - label: "Schedule a Call"
     url: "/schedule"
 
-image: "images/frontpage.jpg"
+image:
+  src: "images/approach.jpg"
+  alt: "Jurjen Bloo sketching a transformation roadmap on a whiteboard"

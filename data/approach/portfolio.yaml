@@ -24,9 +24,9 @@ items:
        <li><b>Exit – Handover:</b> transfer playbook, KPI dashboard & leadership rituals.</li>
       </ul><br><br>
 
-    buttons: 
-      - label: "Book Your Interim Leader"
-        url: "#"
+#    buttons: 
+#      - label: "Book Your Interim Leader"
+#        url: "/schedule"
         
 #      - label: "Read more"
 #        url: "#"
@@ -52,9 +52,9 @@ items:
        <li><b>Exit – Hand-off:</b> transition to internal RTE/PMO with playbook + metrics dashboard.</li>
       </ul><br><br>
 
-    buttons: 
-      - label: "Book a 30-min Recovery Scope Call"
-        url: "#"
+#    buttons: 
+#      - label: "Book a 30-min Recovery Scope Call"
+#        url: "/schedule"
 
 #      - label: "Read more"
 #        url: "#"
@@ -81,9 +81,9 @@ items:
         <li><b>Sustain:</b> embed continuous-improvement loops and AI-based decisioning.</li>
       </ul><br><br>
 
-    buttons: 
-      - label: "Schedule Your Transformation Briefing"
-        url: "#"
+#    buttons: 
+#      - label: "Schedule Your Transformation Briefing"
+#        url: "/schedule"
 
 #      - label: "Read more"
 #        url: "#"

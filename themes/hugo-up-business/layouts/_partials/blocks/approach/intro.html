@@ -32,8 +32,13 @@
         </div>
       {{ end }}
     </div>
-    <div class="hidden items-center xl:flex">
-      {{ partial "utilities/image" (dict "src" $data.image "class" "max-w-full object-cover object-center") }}
+   <div class="hidden items-center xl:flex">
+      {{ with $data.image }}
+        {{ partial "utilities/image" (dict
+          "src"   .src
+          "alt"   .alt
+          "class" "max-w-full object-cover object-center") }}
+        {{ end }}
     </div>
   </div>
 </section>
