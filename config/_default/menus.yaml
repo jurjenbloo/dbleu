@@ -15,9 +15,9 @@ main:
 #    url: "/#"
 #    weight: 4
 
-#  - name: "Insights"
-#    url: "/blog"
-#    weight: 5
+  - name: "Insights"
+    url: "/blog"
+    weight: 5
 
 buttons:
   - name: "Schedule a call"

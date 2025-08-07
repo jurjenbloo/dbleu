@@ -1,4 +1,4 @@
 ---
-title: "D'Bleu | Our Approach"
+title: "Our Approach"
 layout: "approach"
 ---
