@@ -11,15 +11,12 @@
         <div class="flex flex-col justify-center">
           {{ with .pretitle }}
             <p class="text-secondary mb-2 text-center font-bold xl:text-start">{{ . }}</p>
-              {{ . | safeHTML }}
           {{ end }}
           {{ with .title }}
             <h1 class="text-primary mb-4 text-center text-4xl font-bold xl:text-start">{{ . }}</h1>
-              {{ . | safeHTML }}
           {{ end }}
           {{ with .text }}
             <p class="mb-6 text-center xl:text-start">{{ . }}</p>
-              {{ . | safeHTML }}
           {{ end }}
           <div class="flex items-center justify-center gap-4 xl:justify-start">
             {{ range .buttons }}
