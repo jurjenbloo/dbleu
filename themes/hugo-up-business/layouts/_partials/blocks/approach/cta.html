@@ -11,7 +11,7 @@
     {{ end }}
     {{ with $data.button }}
       <div class="flex items-center justify-center">
-        {{ partial "components/button/outline" (dict "label" .label "href" .link) }}
+        {{ partial "components/button/outline" (dict "label" .label "href" .url) }}
       </div>
     {{ end }}
   </div>
