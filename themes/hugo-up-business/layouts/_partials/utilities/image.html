@@ -37,6 +37,6 @@
   {{ with $resource.Height }}height="{{ . }}"{{ end }}
   {{ with $srcset }}srcset="{{ . }}"{{ end }}
   {{ with .sizes }}sizes="{{ . }}"{{ end }}
-  {{ with .class }}class="{{ . }}"{{ end }}
+  class="grayscale{{ with .class }} {{ . }}{{ end }}"
   alt="{{ . }}"
 />

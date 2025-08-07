@@ -4,10 +4,10 @@ description: |
   Leading with <strong class=\"text-pink-500\">Purpose</strong>.<br>
   Delivering <strong class=\"text-pink-500\">Results</strong>.
 
-items: 
-  - "images/hero-image.png"
+images:
+  - "images/og-cover.jpg"     # default OG & Twitter image
 
-logo: "arrow-up.png"
+logo: "images/arrow-up.png"
 
 favicons:
   themeColor: "#FFFFFF"
@@ -16,13 +16,15 @@ favicons:
 
 social:
   linkedin: "https://www.linkedin.com/company/dbleu/"
+  twitter: "@jurjenbloo"
+
+organisation: "D’Bleu"
 
 location:
   - "Netherlands"
 
 contact:
   - "jurjen@dbleu.nl"
-  - "+31610899925"
+  - "+31 6 1089 9925"
 
-copyright: "Copyright 2025 D'Bleu"
-
+copyright: "© 2025 D’Bleu. All rights reserved."

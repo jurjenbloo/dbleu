@@ -1,8 +1,13 @@
 baseURL: "https://jurjenbloo.github.io/dbleu/"
 title: "D'Bleu"
+languageCode: "en-us"
 summaryLength: 20
 
+enableRobotsTXT: true   # auto-builds robots.txt
+canonifyURLs: true      # forces canonical
+enableGitInfo: true     # git dates in front-matter
+
+# Optional: Google Analytics
 # services:
 #   googleAnalytics:
-#     id: G-MEASUREMENT_ID
-
+#     id: "G-XXXXXXXXXX"
