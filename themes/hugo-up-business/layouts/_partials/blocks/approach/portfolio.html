@@ -2,7 +2,7 @@
   {{ $data := .Site.Data.approach.portfolio }}
   <div class="container mx-auto px-4">
     {{ range $i, $e := $data.items }}
-      <div class="grid xl:grid-cols-2 xl:gap-8 mb-16">
+      <div id="{{ anchorize .pretitle }}" class="grid xl:grid-cols-2 xl:gap-8 mb-16">
         <div class="{{ if (eq (mod $i 2) 0) }}xl:order-2{{ end }} flex flex-col items-center justify-center">
           {{ with .image }}
             {{ partial "utilities/image" (dict "src" .) }}
