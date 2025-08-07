@@ -32,7 +32,7 @@ items:
 #        url: "#"
 
   - image: "images/Service_Program_Change.jpg"
-    pretitle: "Service: Program & Change Execution"
+    pretitle: "Program & Change Execution"
     title: "From Chaos to Cadence—90 Days to Predictable Delivery"
     text: |
       Your initiative is bleeding time, budget and credibility. We embed a war-room culture, reset scope, and re-establish an Agile cadence so the board sees incremental value every two weeks—not excuses.
@@ -60,7 +60,7 @@ items:
 #        url: "#"
 
   - image: "images/Service_Digital_Organisational_Transformation.jpg"
-    pretitle: "Service: Digital & Organisational Transformation"
+    pretitle: "Digital & Organisational Transformation"
     title: "Wire Your Business for Continuous Value Flow"
     text: |
       Legacy culture and siloed tech are strangling growth. We re-architect the operating model—org design, platforms, data, AI—to turn strategy into a self-tuning, value-delivering machine.

@@ -8,7 +8,7 @@ cards:
     text: "We provide temporary executive leadership during critical transitions, crises, or scale-ups, ensuring clarity, stability, and results."
     button:
       label: "Learn more"
-      url: "approach/interim-leadership"
+      url: "approach/#interim-leadership"
 
   - image: "images/Program_Change_Execution.jpg"
     title: "Program & Change Execution"
