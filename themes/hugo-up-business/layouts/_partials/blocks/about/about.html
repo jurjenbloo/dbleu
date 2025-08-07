@@ -1,39 +1,119 @@
-<section id="about" class="hero py-8 xl:py-16">
-  {{ $data := .Site.Data.about.about }}
-  <div class="container mx-auto grid gap-16 px-4 xl:grid-cols-2">
-    <div class="flex flex-col justify-center gap-8 xl:gap-16">
-      {{ with $data.title }}
-        <h1 class="text-primary title text-center text-4xl font-bold xl:text-start xl:text-5xl">
-          {{ . | safeHTML }}
-        </h1>
-      {{ end }}
-      {{ with $data.text }}
-        <div class="text-center xl:text-start [&>ul]:list-disc [&>ul]:pl-6 [&>ul]:space-y-2">
-           {{ . | safeHTML }}
-        </div>
-      {{ end }}
-      {{ if $data.buttons }}
-        <div class="flex flex-col items-center gap-4 xl:flex-row xl:gap-8">
-          {{ range $i, $e := $data.buttons }}
-            {{ if (eq $i 0) }}
-              <a class="bg-primary hover:bg-primary/90 rounded px-8 py-2 text-white duration-500" href="{{ $e.url }}">
-                {{ $e.label }}
-              </a>
-            {{ else }}
-              <a
-                class="border-primary text-primary hover:bg-primary flex items-center gap-2 rounded border px-8 py-2 duration-500 hover:text-white"
-                href="{{ $e.url }}"
-              >
-                {{ $e.label }}
-                {{ partial "icons/arrow-right" }}
-              </a>
-            {{ end }}
-          {{ end }}
-        </div>
-      {{ end }}
+{{/*  /layouts/partials/about.html  */}}
+{{ $d := .Site.Data.about }}
+
+{{ if $d.enable }}
+
+<!-- HERO ----------------------------------------------------------->
+<section class="py-20 bg-gray-50" id="about">
+  {{ with $d.hero }}
+  <div class="container mx-auto grid gap-12 px-4 md:grid-cols-2 md:items-center">
+    <!-- Portrait -->
+    {{ partial "utilities/image.html" (dict "src" .image "alt" "Portrait of Jurjen Bloo" "class" "w-48 mx-auto md:mx-0 rounded-full shadow-lg" "loading" "eager") }}
+
+    <!-- Text -->
+    <div>
+      <p class="text-sm font-semibold uppercase tracking-wider text-primary">{{ .pretitle }}</p>
+      <h1 class="mt-2 text-4xl font-extrabold sm:text-5xl">{{ .title }}</h1>
+      <div class="prose prose-slate mt-6 text-lg">{{ .text | markdownify }}</div>
+
+      <div class="mt-8 flex flex-col gap-4 sm:flex-row">
+        <a href="{{ .primary_button.url }}" class="btn-primary">{{ .primary_button.label }}</a>
+        <a href="{{ .secondary_button.url }}" class="btn-outline">{{ .secondary_button.label }}</a>
+      </div>
     </div>
-    <div class="hidden items-center xl:flex">
-      {{ partial "utilities/image" (dict "src" $data.image "class" "max-w-full object-cover object-center") }}
+  </div>
+  {{ end }}
+</section>
+
+<!-- TIMELINE ------------------------------------------------------->
+{{ with $d.timeline }}
+<section class="py-16">
+  <div class="container mx-auto px-4">
+    <h2 class="section-h2">Inflection Timeline</h2>
+    <ol class="mt-8 border-l-2 border-primary pl-6 space-y-6">
+      {{ range . }}
+      <li>
+        <span class="font-bold text-primary">{{ .year }}</span>
+        <span class="ml-4">{{ .what }}</span>
+      </li>
+      {{ end }}
+    </ol>
+  </div>
+</section>
+{{ end }}
+
+<!-- BELIEFS -------------------------------------------------------->
+{{ with $d.beliefs }}
+<section class="bg-white py-16">
+  <div class="container mx-auto px-4">
+    <h2 class="section-h2">What We Believe</h2>
+    <div class="mt-10 grid gap-8 md:grid-cols-2 lg:grid-cols-4">
+      {{ range . }}
+      <div class="text-center p-6 border rounded-lg shadow-sm">
+        {{ partial (printf "icons/%s" .icon) }}
+        <h3 class="mt-4 font-semibold">{{ .title }}</h3>
+        <p class="mt-2 text-sm text-slate-600">{{ .text }}</p>
+      </div>
+      {{ end }}
     </div>
   </div>
 </section>
+{{ end }}
+
+<!-- IMPACT KPI BAR ------------------------------------------------->
+{{ with $d.impact }}
+<section class="py-16">
+  <div class="container mx-auto px-4">
+    <h2 class="section-h2">Impact So Far</h2>
+    <div class="mt-10 grid gap-8 md:grid-cols-3 text-center">
+      {{ range . }}
+      <div>
+        <p class="text-4xl font-extrabold text-primary">{{ .metric }}</p>
+        <p class="mt-2 font-semibold">{{ .label }}</p>
+        <p class="text-sm text-slate-600">{{ .desc }}</p>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+
+<!-- FULL STORY ----------------------------------------------------->
+{{ with $d.story }}
+<section class="bg-gray-50 py-20">
+  <div class="container mx-auto px-4 max-w-3xl">
+    <h2 class="section-h2 text-center">{{ .heading }}</h2>
+
+    {{ range .sections }}
+    <article class="mt-12 first:mt-16">
+      <h3 class="text-2xl font-bold">{{ .title }}</h3>
+
+      {{ with .copy }}
+      <div class="prose prose-slate mt-4">{{ . | markdownify }}</div>
+      {{ end }}
+
+      {{ with .bullets }}
+      <ul class="mt-4 list-disc space-y-2 pl-6">
+        {{ range . }}
+        <li>{{ . | markdownify }}</li>
+        {{ end }}
+      </ul>
+      {{ end }}
+    </article>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+
+<!-- CTA BANNER ----------------------------------------------------->
+{{ with $d.cta }}
+<section class="bg-primary py-16 text-white text-center">
+  <div class="container mx-auto px-4 max-w-2xl">
+    <h2 class="text-3xl font-extrabold">{{ .title }}</h2>
+    <p class="mt-4 text-lg">{{ .text }}</p>
+    <a href="{{ .button.url }}" class="btn-white mt-8">{{ .button.label }}</a>
+  </div>
+</section>
+{{ end }}
+
+{{ end }}
