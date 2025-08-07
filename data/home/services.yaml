@@ -4,7 +4,7 @@ title: "The Right Force at the Right Time"
 text: "We engage when momentum is crucial, to lead, structure, and deliver. Each service is tailored to address your challenge with precision and impact."
 cards:
   - image: "images/Interim_Leadership.jpg"
-    title: "Interim Leadership_test"
+    title: "Interim Leadership"
     text: "We provide temporary executive leadership during critical transitions, crises, or scale-ups, ensuring clarity, stability, and results."
     button:
       label: "Learn more"
@@ -15,11 +15,11 @@ cards:
     text: "From chaos to cadence. We lead complex transformations and restore executional discipline where momentum is lost."
     button:
       label: "Learn more"
-      url: "approach/#program-change-execution"
+      url: "approach/#program--change-execution"
 
   - image: "images/Digital_Organizational_Transformation.jpg"
     title: "Digital & Organizational Transformation"
     text: "We shape the organizations of tomorrow by guiding digital transitions, reorganizations, and cultural shifts, with a focus on people and results."
     button:
       label: "Learn more"
-      url: "approach/#digital-organisational-transformation"
+      url: "approach/#digital--organizational-transformation"
