@@ -5,7 +5,7 @@
         <a class="flex items-center" href="{{ site.BaseURL }}">
           <span class="text-primary text-xl font-semibold uppercase xl:text-3xl">{{ site.Title }}</span>
         </a>
-        <p class="text-center text-sm xl:text-start">{{ site.Params.description }}</p>
+        <p class="text-center text-sm xl:text-start">{{ site.Params.footer | safeHTML }}</p>
         {{ with .Site.Params.social }}
           <ul class="flex gap-4">
             {{ with .dribbble }}

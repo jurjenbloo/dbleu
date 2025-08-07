@@ -15,11 +15,11 @@ cards:
     text: "From chaos to cadence. We lead complex transformations and restore executional discipline where momentum is lost."
     button:
       label: "Learn more"
-      url: "approach/#portfolio"
+      url: "approach/#program-change-execution"
 
   - image: "images/Digital_Organizational_Transformation.jpg"
     title: "Digital & Organizational Transformation"
     text: "We shape the organizations of tomorrow by guiding digital transitions, reorganizations, and cultural shifts, with a focus on people and results."
     button:
       label: "Learn more"
-      url: "approach/#portfolio"
+      url: "approach/#digital-organisational-transformation"
