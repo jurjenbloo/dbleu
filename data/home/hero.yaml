@@ -11,7 +11,7 @@ buttons:
     url: "approach/"
 
   - label: "Schedule a Call"
-    url: ""
+    url: "/schedule"
 
 image: "images/frontpage.jpg"
 

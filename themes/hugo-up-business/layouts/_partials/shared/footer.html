@@ -61,7 +61,17 @@
         <h2 class="text-primary mb-2 text-center text-lg font-bold xl:text-start">Contact Us</h2>
         <ul class="flex flex-col gap-1 text-sm">
           {{ range .Site.Params.contact }}
-            <li class="text-center xl:text-start">{{ . }}</li>
+            <li class="text-center xl:text-start">
+              {{ if in . "@" }}
+                <a href="mailto:{{ . }}" class="underline hover:text-primary">{{ . }}</a>
+              {{ else if (or (hasPrefix . "http") (hasPrefix . "www")) }}
+                <a href="{{ . }}" class="underline hover:text-primary" target="_blank" rel="noopener">{{ . }}</a>
+              {{ else if (or (hasPrefix . "+") (hasPrefix . "0")) }}
+                <a href="tel:{{ replace . " " "" }}" class="underline hover:text-primary">{{ . }}</a>
+              {{ else }}
+                {{ . }}
+              {{ end }}
+            </li>
           {{ end }}
         </ul>
       </div>

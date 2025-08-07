@@ -5,4 +5,4 @@ text: "Let’s explore how D’Bleu can help you lead through complexity. Schedu
 #image: "images/services-web-development.png"
 button:
   label: "Schedule a Call"
-  url: "#"
+  url: "/schedule"
