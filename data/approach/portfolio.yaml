@@ -1,38 +1,89 @@
 enable: true
 
 items:
-  - image: "images/Mission.jpg"
-    pretitle: "Our Mission"
-    title: "Interim Leadership"
-    text: "At D’Bleu, we believe that true progress occurs when leadership is clear, structures are strong, and execution is bold. Our mission is to empower organizations and their leaders to succeed during uncertain times by acting as a catalyst for focused action, strategic clarity, and data- and AI-driven decision-making that transforms complexity into forward momentum."
+  - image: "images/Service_Interim_Leadership.jpg"
+    pretitle: "Service: Interim Leadership"
+    title: "Critical Seat Filled—Day-One Impact Executive"
+    text: |
+      Vacuum at the top? We drop in as acting C-suite or programme commander within 48 hours, impose clarity, and turn paralysis into momentum while you recruit the permanent hire.
+      <br><br>
+      <b>Outcomes list</b><br>
+      <ul class="list-disc pl-6 space-y-2">
+       <li>Leadership gap closed < 48 h.</li>
+       <li>Strategic roadmap stabilised inside 30 days.</li>
+       <li>Team morale & velocity up > 35 %.</li>
+       <li>Board risk rating downgraded to “controlled”.</li>
+      </ul>
+      <br><br>
+      <b>Our playbook</b><br>
+      <ul class="list-disc pl-6 space-y-2">
+       <li><b>Day 0-2 – Triage:</b> 360° stakeholder scan, critical-path rescue.</li>
+       <li><b>Day 3-7 – Stabilise:</b> reset decision rights, install daily war-room.</li>
+       <li><b>Day 8-30 – Align:</b> define North-Star OKRs, lock quarterly roadmap.</li>
+       <li><b>Day 31-90 – Deliver:</b> execute high-stakes milestones, coach successor.</li>
+       <li><b>Exit – Handover:</b> transfer playbook, KPI dashboard & leadership rituals.</li>
+      </ul><br><br>
 
-#    buttons: 
-#      - label: "See live"
-#        url: "#"
+    buttons: 
+      - label: "Secure Your Interim Leader"
+        url: "#"
 
 #      - label: "Read more"
 #        url: "#"
 
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "Program & Change Execution"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+  - image: "images/Service_Program_Change.jpg"
+    pretitle: "Service: Program & Change Execution"
+    title: "From Chaos to Cadence—90 Days to Predictable Delivery"
+    text: |
+      Your initiative is bleeding time, budget and credibility. We embed a war-room culture, reset scope, and re-establish an Agile cadence so the board sees incremental value every two weeks—not excuses.
+      <br><br>
+      <b>Outcomes list</b><br>
+      <ul class="list-disc pl-6 space-y-2">
+       <li>Release frequency uplift >3× within one quarter.</li>
+       <li>Scope volatility cut by -45 % through ruthless backlog surgery.</li>
+       <li>Stakeholder trust rebuilt via fortnightly demo & data-driven forecast.</li>
+      </ul>
+      <br><br>
+      <b>Our playbook</b><br>
+      <ul class="list-disc pl-6 space-y-2">
+       <li><b>Day 1-5 – X-ray:</b> value-stream mapping & root-cause heat-map.</li>
+       <li><b>Day 6-15 – Rescope:</b> freeze vanity features, lock MVP, size backlog in story-points</li>
+       <li><b>Day 16-90 – Cadence:</b> install two-week sprint rhythm, radiate burn-up, coach PO & Scrum Masters.</li>
+       <li><b>Exit – Hand-off:</b> transition to internal RTE/PMO with playbook + metrics dashboard.</li>
+      </ul><br><br>
 
-#    buttons: 
-#      - label: "See live"
-#        url: "#"
+    buttons: 
+      - label: "Book a 30-min Recovery Scope Call"
+        url: "#"
 
 #      - label: "Read more"
 #        url: "#"
 
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "Digital & Organizational Transformation"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+  - image: "images/Service_Digital_Organisational_Transformation.jpg"
+    pretitle: "Service: Digital & Organisational Transformation"
+    title: "Wire Your Business for Continuous Value Flow"
+    text: |
+      Legacy culture and siloed tech are strangling growth. We re-architect the operating model—org design, platforms, data, AI—to turn strategy into a self-tuning, value-delivering machine.
+      <br><br>
+      <b>Outcomes list</b><br>
+      <ul class="list-disc pl-6 space-y-2">
+        <li>Lead-time from idea-to-cash slashed 60 %.</li>
+        <li>Cross-functional feature teams aligned to value streams.</li>
+        <li>AI-powered OKR dashboards giving execs real-time ROI signals.</li>
+      </ul>
+      <br><br>
+      <b>Our playbook</b><br>
+      <ul class="list-disc pl-6 space-y-2">
+        <li><b>Diagnostic:</b> maturity benchmark & economic case for change.</li>
+        <li><b>Blueprint:</b> target operating model, guard-railed by SAFe & DevSecOps.</li>
+        <li><b>Mobilise:</b> change coalitions, Lean Portfolio, funding model shift.</li>
+        <li><b>Execute:</b> incremental platform migration; up-skill squads; measure value flow.</li>
+        <li><b>Sustain:</b> embed continuous-improvement loops and AI-based decisioning.</li>
+      </ul><br><br>
 
-#    buttons: 
-#      - label: "See live"
-#        url: "#"
+    buttons: 
+      - label: "Schedule Your Transformation Briefing"
+        url: "#"
 
 #      - label: "Read more"
 #        url: "#"

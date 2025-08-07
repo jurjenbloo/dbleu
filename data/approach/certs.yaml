@@ -2,8 +2,10 @@ enable: true
 
 title: "Certified & Trusted by Leading Organizations"
 items:
-  - "images/brands-samsumg.png"
-  - "images/brands-google.png"
-  - "images/brands-adobe.png"
-  - "images/brands-spotify.png"
-  - "images/brands-dropbox.png"
+  - "images/cert-sa.png"
+  - "images/cert-sdp.png"
+  - "images/cert-lpm.png"
+  - "images/cert-rte.png"
+  - "images/cert-mor.png"
+  - "images/cert-mop.png"
+  - "images/cert-psm1.png"

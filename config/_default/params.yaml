@@ -1,5 +1,9 @@
 title: "D'Bleu"
-description: "Navigating Change. Leading with Purpose. Delivering Results."
+description: |
+  Navigating Change. <br>
+  Leading with <strong class=\"text-pink-500\">Purpose</strong>.<br>
+  Delivering <strong class=\"text-pink-500\">Results</strong>.
+
 items: 
   - "images/hero-image.png"
 
