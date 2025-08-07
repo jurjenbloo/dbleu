@@ -1,80 +1,51 @@
 enable: true
 
-hero:
-  pretitle: "FROM OPERATOR TO FOUNDER"
-  title: "Why D’Bleu Exists"
-  text: |
-    I’m **Jurjen Bloo**—the fixer boards call when €100 m programmes flat-line.  
-    After two decades turning chaos into cadence for banks, telcos and scale-ups,  
-    I founded **D’Bleu** to inject that execution DNA into organisations that refuse  
-    to stay average. Promise: clarity 48 h, momentum 30 d, results 90 d.
-  image: "images/jurjen-bloo.jpg"
-  primary_button:
-    label: "Book a 30-min Call"
+title: "Why <strong class=\"text-pink-500\">D’Bleu</strong> exists"
+
+text: |
+  I spent two decades inside corporates watching brilliant strategies die in delivery hell. Budgets ballooned, teams burned out, execs blamed “culture.” I refused that narrative.
+  <br><br>
+  <h1><b>My inflection point</b></h1>
+  <br>
+  In 2017 I parachuted into a Tier-1 European bank where a €120 m digital programme was 14 months late. We rebuilt the value stream, axed 40 % vanity scope and shipped the MVP in 11 weeks. Board risk rating: green. That win proved a simple truth—velocity is a leadership choice, not a luck factor.
+  <br><br>
+  <h1><b>From operator to founder</b></h1>
+  <br>
+  I founded <b>D’Bleu</b> to scale that mindset beyond a single employer. The name blends my surname <b>Bloo</b> (French: <b>Bleu</b>) with the <b>D</b>elta symbol for change—digital, decisive, data-driven.
+  <br><br>
+  At D’Bleu, we don’t just offer advice; we actively step in, lead, and deliver results. Our approach combines strategic insight with strong execution:
+  <br><br>
+  <h1><b>What we believe</b></h1>
+  <br>
+  <ul class="list-disc pl-6 space-y-2">
+   <li><b>Timebox everything.</b> Indefinite projects breed indefinite excuses.</li>
+   <li><b>Data beats drama.</b> Decisions anchored in flow metrics, not politics.</li>
+   <li><b>Leaders remove friction.</b> They don’t chair meetings; they unblock.</li>
+   <li><b>Change sticks when teams win.</b> Celebrate small wins every sprint.</li>
+  </ul>
+  <br><br>
+  <h1><b>What we do</b></h1>
+  <br>
+  <ul class="list-disc pl-6 space-y-2">
+    <li><b>Interim Leadership</b> act as temporary CIO, CTO or RTE within 48 h.</li>
+    <li><b>Program & Change Execution</b> rescue stalled initiatives, restore cadence.</li>
+    <li><b>Digital & Organisational Transformation</b> wire the business for continuous value flow.</li>
+  </ul>
+  <br><br>
+  <h1><b>Impact so far</b></h1>
+  <br>
+  <ul class="list-disc pl-6 space-y-2">
+    <li>Cut idea-to-cash lead-time by <b>60 %</b> for a global telco (5 k staff).</li>
+    <li>Tripled release frequency for a fintech scale-up, unlocking Series C funding.</li>
+    <li>Saved €18 m OPEX in 12 months for a Tier-1 bank through Lean Portfolio.</li>
+  </ul>
+  <br><br>
+  <h1><b>Why it matters to you</b></h1>
+  <br>
+  Your competitors aren’t waiting. Neither should you. If clarity, cadence and cash are stuck in the mud, we need a 30-minute call—nothing fluffy, just a brutal assessment of where you are versus where you said you’d be.
+
+buttons:
+  - label: "Schedule a Call →"
     url: "/schedule"
-  secondary_button:
-    label: "Read the full story →"
-    url: "/insights/origin"
 
-timeline:
-  - year: "2005"
-    what: "Corporate PMO — saw big budgets burn"
-  - year: "2017"
-    what: "€120 m rescue: 14 m late → 11 w launch"
-  - year: "2025"
-    what: "Founded D’Bleu to scale the mindset"
-
-beliefs:
-  - icon: "clock"
-    title: "Timebox everything."
-    text: "Indefinite projects breed indefinite excuses."
-  - icon: "database"
-    title: "Data beats drama."
-    text: "Decisions anchored in flow metrics, not politics."
-  - icon: "bolt"
-    title: "Leaders remove friction."
-    text: "They don’t chair meetings; they unblock."
-  - icon: "party"
-    title: "Change sticks when teams win."
-    text: "Celebrate small wins every sprint."
-
-impact:
-  - metric: "60 %"
-    label: "Lead-time ↓"
-    desc: "Global telco (5 k staff)"
-  - metric: "×3"
-    label: "Release frequency ↑"
-    desc: "Fintech scale-up — unlocked Series C"
-  - metric: "€18 m"
-    label: "OPEX saved"
-    desc: "Tier-1 bank in 12 months"
-
-story:
-  heading: "The Full Story"
-  sections:
-    - title: "The Problem I Kept Seeing"
-      copy: |
-        I spent two decades inside corporates watching brilliant strategies die in delivery hell.  
-        Budgets ballooned, teams burned out, execs blamed “culture.” I refused that narrative.
-    - title: "My Inflection Point"
-      copy: |
-        In 2017 I parachuted into a Tier-1 European bank where a €120 m digital programme was  
-        14 months late. We rebuilt the value stream, axed 40 % vanity scope and shipped the MVP  
-        in 11 weeks. Board risk rating: green. Lesson: **velocity is a leadership choice, not luck.**
-    - title: "From Operator to Founder"
-      copy: |
-        I founded **D’Bleu** to scale that mindset beyond a single employer. The name blends my  
-        surname **Bloo** (French *Bleu*) with the **Δ** (delta) symbol for change—digital, decisive, data-driven.
-    - title: "What We Believe"
-      bullets:
-        - "**Timebox everything.** Indefinite projects breed indefinite excuses."
-        - "**Data beats drama.** Decisions anchored in flow metrics, not politics."
-        - "**Leaders remove friction.** They don’t chair meetings; they unblock."
-        - "**Change sticks when teams win.** Celebrate small wins every sprint."
-
-cta:
-  title: "Your transformation starts with a conversation."
-  text: "Let’s explore how D’Bleu can help you lead through complexity—no fluff, just clarity."
-  button:
-    label: "Schedule a Call →"
-    url: "/schedule"
+image: "images/frontpage.jpg"
