@@ -1,13 +1,12 @@
----
-title: "Why D’Bleu Exists"
-description: "From €120 m rescue to founding D’Bleu—this is the full origin story."
-date: 2025-08-07T09:00:00Z      # adjust if you want it to rank higher in “recent” lists
-author: "Jurjen Bloo"
-tags: ["origin", "leadership", "transformation"]
-aliases: ["/about/"]            # keeps /about/ URL even if section name ever changes
-layout: "single"                # tells Hugo to use your post/single template
-draft: false
----
++++
+# ───────────  Front-matter  ───────────
+author      = "Jurjen Bloo"
+title       = "Why D’Bleu Exists"
+date        = 2025-08-07T09:00:00Z           # adapt if you want it higher in the list
+description = "From €120 m rescue to founding D’Bleu—this is the full origin story."
+tags        = ["origin", "leadership", "transformation"]
+draft       = false
++++
 
 > *“Velocity is a leadership choice, not luck.”*  
 
@@ -21,7 +20,7 @@ Brilliant strategies died in delivery hell. Budgets ballooned, teams burned out,
 
 ## My inflection point — 2017  
 A Tier-1 European bank’s €120 m digital programme was **14 months late**.  
-We rebuilt the value stream, axed **40 %** vanity scope and shipped the MVP in **11 weeks**. Board risk rating: green.
+We rebuilt the value stream, axed **40 %** vanity scope and shipped the MVP in **11 weeks**. Board-risk rating: green. Lesson: velocity is a leadership choice, not luck.
 
 ## From operator to founder  
 The name **D’Bleu** blends my surname *Bloo* (French *Bleu*) with the delta symbol Δ for change—digital, decisive, data-driven.
@@ -40,5 +39,6 @@ The name **D’Bleu** blends my surname *Bloo* (French *Bleu*) with the delta sy
 | OPEX saved | **€18 m** in 12 months at a Tier-1 bank |
 
 ## Why it matters to you  
-Your competitors aren’t waiting. Neither should you.  
-[➡ Schedule a 30-min clarity call](/schedule)
+Your competitors aren’t waiting. Neither should you. If clarity, cadence and cash are stuck, let’s have a **30-minute brutal-clarity call**—no fluff.
+
+[➡ Schedule a Call](/schedule)
