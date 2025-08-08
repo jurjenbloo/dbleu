@@ -30,6 +30,10 @@ draft: false
 
 ## Founder Spotlight
 **Jurjen Bloo** founded D’Bleu after running P&Ls of **€6m** and **€25m** and delivering across **energy, telecom and retail**. He built D’Bleu to work with freedom and truth—bottom-up learning, clear purpose, no theatre.  
+
+**Why the name** 
+*D’Bleu blends my surname **Bloo** (French **bleu**) with **Δ (delta)** for decisive change: calm under pressure + action when it counts.*
+
 {{< button label="Read the full founder story →" href="/insights/why-dbleu-exists/" variant="outline" >}}
 
 {{< button label="Schedule a 30-min Clarity Call" href="/schedule" variant="primary" >}}

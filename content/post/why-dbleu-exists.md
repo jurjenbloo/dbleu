@@ -15,6 +15,9 @@ At Move Beyond, I was a Business Unit Director with a clear plan: modernise the 
 
 It clicked one late evening in an empty office: I was **running a business**, owning decisions, owning the P&L—yet I wasn’t free to **lead**. I wanted the freedom to tell the truth, learn by doing, and build from the bottom up. That’s the day D’Bleu began, long before the paperwork.
 
+### Why the name
+D’Bleu blends my surname **Bloo** (French **bleu**) with the **Δ (delta)** symbol for decisive change, calm under pressure + action when it counts.
+
 ## What I kept seeing inside large organisations
 Most people are capable and care. But systems teach them to **avoid risk**, to hide behind process, to let the “machine” decide. When truth gets edited to protect power, speed dies. And when speed dies, value dies.
 
