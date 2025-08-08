@@ -1,49 +1,35 @@
 ---
-title: "Why D’Bleu Exists"
-description: "From €120 m rescue to founding D’Bleu—this is the full origin story."
-date: 2025-08-07T09:00:00Z      # adjust if you want it to rank higher in “recent” lists
-author: "Jurjen Bloo"
-tags: ["origin", "leadership", "transformation"]
-aliases: ["/about/"]            # keeps /about/ URL even if section name ever changes
-layout: "single"                # tells Hugo to use your post/single template
+title: "About D’Bleu"
+description: "We step in when momentum dies—interim leadership, programme rescue, and digital & organisational transformation that deliver results in 90 days."
+layout: "single"
+aliases: ["/about/"]
 draft: false
 ---
 
-> *“Velocity is a leadership choice, not luck.”*  
+## What We Do
+- **[Interim Leadership](/approach/#interim-leadership)** — Acting C-suite / programme lead to stabilise direction and delivery.  
+- **[Programme & Change Execution](approach/#program--change-execution)** — From chaos to cadence; stalled initiatives shipped.  
+- **[Digital & Organisational Transformation](approach/#digital--organisational-transformation)** — Operating model, data and ways-of-working wired for continuous value flow.
 
-I’m **Jurjen Bloo**—the fixer boards call when €100 m programmes flat-line.  
-After two decades turning chaos into cadence for banks, telcos and scale-ups, I founded **D’Bleu** to inject that execution DNA into organisations that refuse to stay average.
+## How We Work (First 90 Days)
+- **0–48 hours — Triage & truth.** Gemba listening at every level, system map, risks and constraints surfaced.  
+- **Days 3–7 — Stabilise.** Reset decision rights, install an operating rhythm, make metrics visible.  
+- **Days 8–30 — Align.** North-Star OKRs, ruthless backlog management, quarterly roadmap locked.  
+- **Days 31–90 — Deliver.** Non-negotiable milestones hit; internal leaders coached; playbook + dashboard handed over.
 
-<!--more-->
+## Proof (Snapshots)
+- **Business unit turnaround.** Contracts expiring, BD immature, no CRM access. **24-hour** rescue plan; within a month most contracts extended; recruitment, performance and L&D rebuilt. **Result: +30% revenue.**  
+- **National energy data platform (NL).** Politically sensitive, technically complex, stalled for years. Introduced SAFe, professionalised international collaboration, added real-time delivery analytics. **Outcome: nationwide go-live; future-proof foundation.**  
+- **Global media/telecom delivery.** 500+ people across five countries. SAFe business case, health checks, agile practices and delivery intelligence. **Cycle time 40 → 36 weeks; confidence up; data-driven culture.**
 
-## The problem I kept seeing  
-Brilliant strategies died in delivery hell. Budgets ballooned, teams burned out, execs blamed “culture.” I refused that narrative.
+## What We Believe
+- **Timebox everything.** Indefinite projects create indefinite excuses.  
+- **Data beats drama.** Decisions ride on flow metrics—not politics.  
+- **Leaders remove friction.** They unblock work, not chair meetings.  
+- **Change sticks when teams win weekly.** Momentum > memos.
 
-## My inflection point — 2017  
-A Tier-1 European bank’s €120 m digital programme was **14 months late**.  
-We rebuilt the value stream, axed **40 %** vanity scope and shipped the MVP in **11 weeks**. Board risk rating: green.
+## Founder Spotlight
+**Jurjen Bloo** founded D’Bleu after running P&Ls of **€6m** and **€25m** and delivering across **energy, telecom and retail**. He built D’Bleu to work with freedom and truth—bottom-up learning, clear purpose, no theatre.  
+{{< button label="Read the full founder story →" href="/insights/why-dbleu-exists/" variant="outline" >}}
 
-## From operator to founder  
-The name **D’Bleu** blends my surname *Bloo* (French *Bleu*) with the delta symbol Δ for change—digital, decisive, data-driven.
-
-## What we believe  
-- **Timebox everything.** Indefinite projects breed indefinite excuses.  
-- **Data beats drama.** Decisions anchored in flow metrics, not politics.  
-- **Leaders remove friction.** They don’t chair meetings; they unblock.  
-- **Change sticks when teams win.** Celebrate small wins every sprint.
-
-## Impact so far  
-| Metric | Result |
-|--------|--------|
-| Lead-time ↓ | **‒60 %** at a global telco (5 k staff) |
-| Release freq ↑ | **×3** at a fintech—unlocked Series C |
-| OPEX saved | **€18 m** in 12 months at a Tier-1 bank |
-
-## Why it matters to you  
-Your competitors aren’t waiting. Neither should you.  
-
-{{< button
-     label="Schedule a call →"
-     href="/schedule"
-     variant="primary"
->}}
+{{< button label="Schedule a 30-min Clarity Call" href="/schedule" variant="primary" >}}
