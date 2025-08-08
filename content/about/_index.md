@@ -1,15 +1,15 @@
 ---
 title: "About D’Bleu"
-description: "We step in when momentum dies—interim leadership, programme rescue, and digital & organisational transformation that deliver results in 90 days."
+description: "We step in when momentum dies. Interim leadership, programme rescue, and digital & organisational transformation that deliver results in 90 days."
 layout: "single"
 aliases: ["/about/"]
 draft: false
 ---
 
 ## What We Do
-- **[Interim Leadership](/approach/#interim-leadership)** — Acting C-suite / programme lead to stabilise direction and delivery.  
-- **[Programme & Change Execution](approach/#program--change-execution)** — From chaos to cadence; stalled initiatives shipped.  
-- **[Digital & Organisational Transformation](approach/#digital--organisational-transformation)** — Operating model, data and ways-of-working wired for continuous value flow.
+- **[Interim Leadership](/approach/#interim-leadership)**: Acting C-suite / programme lead to stabilise direction and delivery.  
+- **[Programme & Change Execution](/approach/#program--change-execution)**: From chaos to cadence; stalled initiatives shipped.  
+- **[Digital & Organisational Transformation](/approach/#digital--organisational-transformation)**: Operating model, data and ways-of-working wired for continuous value flow.
 
 ## How We Work (First 90 Days)
 - **0–48 hours — Triage & truth.** Gemba listening at every level, system map, risks and constraints surfaced.  
@@ -34,6 +34,5 @@ draft: false
 **Why the name** 
 *D’Bleu blends my surname **Bloo** (French **bleu**) with **Δ (delta)** for decisive change: calm under pressure + action when it counts.*
 
-{{< button label="Read the full founder story →" href="/insights/why-dbleu-exists/" variant="outline" >}}
-
-{{< button label="Schedule a 30-min Clarity Call" href="/schedule" variant="primary" >}}
+{{< button label="Read the full founder story →" href="/insights/why-dbleu-exists/" variant="outline" >}} {{< button label="Schedule a 30-min Clarity Call" href="/schedule" variant="primary" >}}
+xw
