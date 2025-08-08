@@ -54,6 +54,6 @@ I run a small foundation supporting **women and children in Kenya** with access 
 
 ---
 
-If your programme is stalled, if truth is optional, if meetings have replaced movement—let’s talk.
+If your programme is stalled, if truth is optional, if meetings have replaced movement, let’s talk.
 
 {{< button label="Work with D’Bleu" href="/schedule" variant="primary" >}}
