@@ -4,6 +4,7 @@ description: "The moment of truth, the belief system, and the wins that shaped D
 date: 2025-08-08T09:46:13Z
 tags: ["origin","leadership","transformation"]
 draft: false
+image: "images/jurjen.jpeg"
 ---
 
 > **Velocity is a leadership choice, not luck.**
