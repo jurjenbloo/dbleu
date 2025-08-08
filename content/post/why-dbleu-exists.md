@@ -7,7 +7,8 @@ draft: false
 image: "images/jurjen.jpeg"
 ---
 
-image: "images/jurjen.jpeg"
+{{< figure src=/images/jurjen.jpeg alt="Jurjen Bloo" >}}
+
 > **Velocity is a leadership choice, not luck.**
 
 I didn’t start D’Bleu because I wanted a logo. I started it because I hit a wall.
