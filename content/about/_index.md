@@ -34,5 +34,5 @@ draft: false
 **Why the name** 
 *D’Bleu blends my surname **Bloo** (French **bleu**) with **Δ (delta)** for decisive change: calm under pressure + action when it counts.*
 
-{{< button label="Read the full founder story →" href="/insights/why-dbleu-exists/" variant="outline" >}} {{< button label="Schedule a 30-min Clarity Call" href="/schedule" variant="primary" >}}
-xw
+{{< button label="Read the full founder story →" href="/insights/why-dbleu-exists/" variant="primary" >}} 
+{{< button label="Schedule a 30-min Clarity Call" href="/schedule" variant="primary" >}}
