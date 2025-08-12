@@ -13,7 +13,7 @@ image: "images/jurjen.jpeg"
 
 I didn’t start D’Bleu because I wanted a logo. I started it because I hit a wall.
 
-At Move Beyond, I was a Business Unit Director with a clear plan: modernise the unit, grow the business development engine, put in stronger talent systems, and future-proof the way we delivered. I wasn’t trying to be loud; I was trying to be effective. But the more I pushed, the more I was told to **stick to the old map**. Obedience over judgment. Approval over outcomes.
+I was leading a Business Unit with a clear plan: modernise the unit, grow the business development engine, put in stronger talent systems, and future-proof the way we delivered. I wasn’t trying to be loud; I was trying to be effective. But the more I pushed, the more I was told to **stick to the old map**. Obedience over judgment. Approval over outcomes.
 
 It clicked one late evening in an empty office: I was **running a business**, owning decisions, owning the P&L, yet I wasn’t free to **lead**. I wanted the freedom to tell the truth, learn by doing, and build from the bottom up. That’s the day D’Bleu began, long before the paperwork.
 
@@ -31,7 +31,7 @@ I show up and **listen properly** on the floor, not just in the boardroom. I map
 “What you’re not changing, you’re choosing.” That line lands with everyone, from engineers to executives.
 
 ## A turnaround that shaped me
-When I stepped into Move Beyond, the unit was wobbling. Half the consultants were near contract expiry. The BD team was new. We didn’t even have CRM access to know who to call. Commitment was low.
+When I stepped into the role as Business Unit Director, the unit was wobbling. Half the consultants were near contract expiry. The BD team was new. We didn’t even have CRM access to know who to call. Commitment was low.
 
 We covered a wall with brown paper, listed the problems, set targets, and built a **24-hour plan**. Within a month we’d extended most contracts, rebuilt client contact, set expectations, and stood up recruitment, performance and learning. The mood shifted: people wanted to win again. Revenue followed, **+30%** but the part that stayed with me was the change in posture. Heads up. Eyes forward.
 
@@ -39,10 +39,10 @@ We covered a wall with brown paper, listed the problems, set targets, and built 
 I’ve been prevented from talking to the people doing the work because truth is inconvenient. Later I learned it wasn’t about me; it was fear. That’s when I wrote my rule: **full access to people, systems and data**. No access, no engagement. Theatre is expensive.
 
 ## A programme that wouldn’t move, until it did
-At EDSN, the C-ARM programme, critical to the Dutch energy transition, was stuck. Politics, complexity, years of stall. We installed SAFe with discipline, professionalised international collaboration, and put **real-time delivery analytics** on the table so predictability stopped being a wish. The system went live nationwide. Not a miracle—just decisions, cadence, and transparency.
+The program, a critical to the Dutch energy transition, was stuck. Politics, complexity, years of stall. We installed SAFe with discipline, professionalised international collaboration, and put **real-time delivery analytics** on the table so predictability stopped being a wish. The system went live nationwide. Not a miracle, just decisions, cadence, and transparency.
 
 ## A transformation at scale
-At Liberty Global, I worked across five countries and 500+ people on Horizon and Horizon Go. We built a **data-driven delivery culture**: business case for SAFe, health checks, agile practice, and dashboards that made scope, velocity and risk unmissable. Cycle time moved **40 → 36 weeks**. Confidence returned because evidence returned.
+At a Global media/telecom, I worked across five countries and 500+ people on Horizon and Horizon Go. We built a **data-driven delivery culture**: business case for SAFe, health checks, agile practice, and dashboards that made scope, velocity, and risk unmissable. Cycle time moved **40 → 36 weeks**. Confidence returned because evidence returned.
 
 ## What I believe (and won’t compromise)
 - **Timebox everything.** Indefinite projects create indefinite excuses.  

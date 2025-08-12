@@ -24,15 +24,15 @@ draft: false
 
 ## What We Believe
 - **Timebox everything.** Indefinite projects create indefinite excuses.  
-- **Data beats drama.** Decisions ride on flow metrics—not politics.  
+- **Data beats drama.** Decisions ride on flow metrics, not politics.  
 - **Leaders remove friction.** They unblock work, not chair meetings.  
 - **Change sticks when teams win weekly.** Momentum > memos.
 
 ## Founder Spotlight
-**Jurjen Bloo** founded D’Bleu after running P&Ls of **€6m** and **€25m** and delivering across **energy, telecom and retail**. He built D’Bleu to work with freedom and truth—bottom-up learning, clear purpose, no theatre.  
+**Jurjen Bloo** founded D’Bleu after running P&Ls of **€6m** and **€25m** and delivering across **energy, telecom and retail**. He built D’Bleu to work with freedom and truth, bottom-up learning, clear purpose, no theatre.  
 
 **Why the name** 
 *D’Bleu blends my surname **Bloo** (French **bleu**) with **Δ (delta)** for decisive change: calm under pressure + action when it counts.*
 
-{{< button label="Read the full founder story →" href="/insights/why-dbleu-exists/" variant="primary" >}} 
-{{< button label="Schedule a 30-min Clarity Call" href="/schedule" variant="primary" >}}
+{{< button label="Read the full founder story →" href="/post/why-dbleu-exists/" variant="primary" >}} &nbsp;
+{{< button label="Schedule a Call" href="/schedule" variant="primary" >}}
