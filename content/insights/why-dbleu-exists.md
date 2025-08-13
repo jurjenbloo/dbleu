@@ -1,5 +1,5 @@
 ---
-title: "Why D’Bleu Exists — The Founder Story"
+title: "Why D’Bleu Exists: The Founder Story"
 description: "The moment of truth, the belief system, and the wins that shaped D’Bleu."
 date: 2025-08-08T09:46:13Z
 tags: ["origin","leadership","transformation"]
