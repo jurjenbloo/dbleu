@@ -16,7 +16,7 @@ main:
 #    weight: 4
 
   - name: "Insights"
-    url: "/blog"
+    url: "/insights"
     weight: 5
 
 buttons:
