@@ -34,5 +34,5 @@ draft: false
 **Why the name** 
 *The name D'Bleu is a fusion of his surname **Bloo** (French **bleu**) with **Δ (delta)** for decisive change: calm under pressure + action when it counts.*
 
-{{< button label="Read the full founder story →" href="/post/why-dbleu-exists/" variant="primary" >}} &nbsp;
+{{< button label="Read the full founder story →" href="/insights/why-dbleu-exists/" variant="primary" >}} &nbsp;
 {{< button label="Schedule a Call" href="/schedule" variant="primary" >}}
